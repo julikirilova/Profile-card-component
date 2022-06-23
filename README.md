@@ -11,7 +11,6 @@ Your challenge is to build out this profile card component and get it looking as
 ## Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
 - CSS Grid
 - CSS Variables
